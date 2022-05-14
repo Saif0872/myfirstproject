@@ -1,3 +1,7 @@
+# Team 
+# rajit
+# priyanshu
+# narayan
 //Write a C++ program to search an element in an array using linear search.
 //In this C++ program we have to search an element in a given array using linear search algorithm. If given element is present in array then we will print it's index otherwise print a message saying element not found in array.
 
